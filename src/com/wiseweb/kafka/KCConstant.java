@@ -31,7 +31,7 @@ public class KCConstant {
 	//本地虚拟机测试
 //	public static final String BROKERS=BK1+","+BK2+","+BK3;
 	
-	//topic 的定义 ：  网智天元 - 爬虫数据 - 微博 的方式命名。  
+	//topic 的定义 ： wzty - 爬虫数据 - 微博 的方式命名。  
 	public static final String LUNTAN="wiseweb_crawler_forum";   //论坛主贴
 	public static final String REPLIES="wiseweb_crawler_replies"; //论坛回复
 	
